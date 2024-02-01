@@ -1,7 +1,5 @@
-<img src=""></img>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/K6lQ71g.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/ylBzP5K.png">
   <img alt="Hashnode logo" src="https://i.imgur.com/ylBzP5K.png" width="1000" height="200">
 </picture>
 
