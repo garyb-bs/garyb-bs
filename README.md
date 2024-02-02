@@ -5,7 +5,7 @@
 
 ## Hello Everyone 👋
 
-<img align="left" width="400" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="left" width="400" height="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 My name is Gary Behan and I am the Lead Solution Architect at BrowserStack. Lots of customers use our products as a tool to achieve their automation goals, but sometimes they are not in a position to achieve those goals for a number of reasons. The Solution Architect team at BrowserStack works with the teams in our customer base to help them scale up their automation, mature their current state and achieve more than they may have even intended to.
 
