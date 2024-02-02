@@ -40,7 +40,7 @@ Find me in the following places:
   </picture>
   
   <a href="https://github.com/garyb-bs/garyb-bs">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyb-bs&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyb-bs&layout=compact" />
   </a>
 </p>
 
