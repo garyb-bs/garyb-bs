@@ -28,14 +28,26 @@ Find me in the following places:
 ## Stats
 
 <p float="left">
-  <a href="https://github.com/ghoshasish99/ghoshasish99">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats" />
+  <a href="https://github.com/garyb-bs/garyb-bs">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight" alt="Gary's GitHub Stats" />
   </a>
   
   <a href="https://github.com/ghoshasish99/ghoshasish99">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyb-bs&layout=compact" />
   </a>
 </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=buefy"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true" />
+</picture>
 
 
 <!---
