@@ -4,18 +4,17 @@
 </picture>
 
 ## Hello Everyone 👋
-<div>
-<img align="left" width="400" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="left" width="400" height="350" style="width: 90%;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 My name is Gary Behan and I am the Lead Solution Architect at BrowserStack. Lots of customers use our products as a tool to achieve their automation goals, but sometimes they are not in a position to achieve those goals for a number of reasons. The Solution Architect team at BrowserStack works with the teams in our customer base to help them scale up their automation, mature their current state and achieve more than they may have even intended to.
 
 My goal is to educate and enable and create lasting relationships with like minded people in the industry and make QA Automation better.
 
-A little bit about me. I'm a father of 1 very energetic 7 year old boy, I'm a part time writer of bad thrillers and I enjoy video games when time allows.
+A little bit about me. I'm a father of a very energetic 7 year old boy, I'm a part time writer of bad thrillers and I enjoy video games when time allows.
 
 I know a lot about some things, a little about a lot of things, and I am always keen to learn something new. 
 
-</div>
+---
 
 ## Where to Find Me 
 
@@ -28,26 +27,22 @@ Find me in the following places:
 ## Stats
 
 <p float="left">
-  <a href="https://github.com/garyb-bs/garyb-bs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight" alt="Gary's GitHub Stats" />
-  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=buefy"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true"> <img/>
+  </picture>
   
-  <a href="https://github.com/ghoshasish99/ghoshasish99">
+  <a href="https://github.com/garyb-bs/garyb-bs">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyb-bs&layout=compact" />
   </a>
 </p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=buefy"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true" />
-</picture>
 
 
 <!---
